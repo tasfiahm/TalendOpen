@@ -5,8 +5,23 @@
     "type" : "job"
   },
   "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
     "id" : "_m8gdcGSDEe2_EZCmv3u9oQ",
     "version" : "Latest",
     "type" : "joblet"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ZL8TwGSHEe2_EZCmv3u9oQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "TALEND_DEV_OPEN:_WgFOoGSAEe2_EZCmv3u9oQ",
+    "version" : "Latest",
+    "type" : "job"
   } ]
 } ]
